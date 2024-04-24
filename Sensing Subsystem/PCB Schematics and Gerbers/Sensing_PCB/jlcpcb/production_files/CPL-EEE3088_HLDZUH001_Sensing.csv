@@ -1,0 +1,28 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,144.5,-76.75,-90.0,top
+D2,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,189.75,-72.0,180.0,top
+D3,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,219.5,-92.25,90.0,top
+D4,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,144.5,-92.25,-90.0,top
+D5,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,174.25,-72.0,180.0,top
+D6,IR LED,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,219.5,-76.75,90.0,top
+D7,D_Photo,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,144.5,-84.5,-90.0,top
+D8,D_Photo,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,182.0,-72.0,180.0,top
+D9,D_Photo,LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm,219.5,-84.5,90.0,top
+Q1,Q_NPN_BCE,SOT-23,159.3125,-90.5,0.0,top
+Q2,Q_NPN_BCE,SOT-23,204.5,-90.5,0.0,top
+R1,39,R_0603_1608Metric,152.75,-76.825,-90.0,top
+R2,39,R_0603_1608Metric,189.825,-80.25,180.0,top
+R3,39,R_0603_1608Metric,211.0,-92.325,90.0,top
+R4,39,R_0603_1608Metric,152.75,-91.925,-90.0,top
+R5,39,R_0603_1608Metric,174.325,-80.25,180.0,top
+R6,39,R_0603_1608Metric,211.0,-76.825,90.0,top
+R7,10k,R_0603_1608Metric,152.75,-84.325,-90.0,top
+R8,10k,R_0603_1608Metric,182.075,-80.25,180.0,top
+R9,10k,R_0603_1608Metric,211.0,-84.325,90.0,top
+R10,47k,R_0603_1608Metric,155.75,-84.325,90.0,top
+R11,47k,R_0603_1608Metric,182.075,-83.25,180.0,top
+R12,47k,R_0603_1608Metric,207.75,-84.325,90.0,top
+R13,1k,R_0603_1608Metric,159.425,-93.75,0.0,top
+R14,4.7k,R_0603_1608Metric,159.425,-95.5,0.0,top
+R15,4.7k,R_0603_1608Metric,204.5,-93.75,0.0,top
+R16,1k,R_0603_1608Metric,204.5,-95.5,0.0,top
