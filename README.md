@@ -34,4 +34,4 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
 ### 3. The Motherboard
 The Motherboard houses all subsystems and addresses the movement and ‘brain’ aspects of the project. The
 wheels and motors of the MicroMouse are attached to the Motherboard PCB, which also mounts an STM32L476
-microcontroller to manage input and output logic. Pin headers are provided for interfacing with other subsystems.
+microcontroller to manage input and output logic. Pin headers are provided for interfacing with other subsystems. This subsystem has been provided beforehand, and was not designed as a part of this project.
