@@ -18,7 +18,7 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
 - **Connections:**
   - JST PH 2mm pin pitch connector for the battery.
   - 2x8 (2.54mm pin pitch) pin header for interfacing with the motherboard.<br />
-  ![image](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/blob/main/Power%20Subsystem/PCB%20images/3D%20view.png))<br />
+  ![image](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/blob/main/Power%20Subsystem/PCB%20images/3D%20view.png)<br />
 
 ### 2. Sensing Subsystem (more info [here](Sensing Subsystem))
 - **Purpose:** Detect obstacles in the robot's path.
@@ -29,7 +29,7 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
   - Interface with processor LEDs to indicate detected obstacles.
 - **Connections:**
   - 2x14 (2.54mm pin pitch) pin header for interfacing with the motherboard.<br />
-  ![image](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/blob/main/Sensing%20Subsystem/PCB%20Schematics%20and%20Gerbers/3DPCB.png))<br />
+  ![image](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/blob/main/Sensing%20Subsystem/PCB%20Schematics%20and%20Gerbers/3DPCB.png)<br />
 
 ### 3. The Motherboard
 The Motherboard houses all subsystems and addresses the movement and ‘brain’ aspects of the project. The
