@@ -8,7 +8,7 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
 
 ## Subsystems
 
-### 1. Power Subsystem (more info [here](Power Subsystem))
+### 1. Power Subsystem (more info [here](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/tree/main/Power%20Subsystem))
 - **Purpose:** Provide power to the entire system.
 - **Key Functions:**
   - Operate two motors (each drawing up to 200mA).
@@ -20,7 +20,7 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
   - 2x8 (2.54mm pin pitch) pin header for interfacing with the motherboard.<br />
   ![image](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/blob/main/Power%20Subsystem/PCB%20images/3D%20view.png)<br />
 
-### 2. Sensing Subsystem (more info [here](Sensing Subsystem))
+### 2. Sensing Subsystem (more info [here](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/tree/main/Sensing%20Subsystem))
 - **Purpose:** Detect obstacles in the robot's path.
 - **Key Functions:**
   - Detect obstacles in front and on the sides of the robot.
