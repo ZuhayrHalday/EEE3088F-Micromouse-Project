@@ -23,7 +23,7 @@ The goal of this project is to build key subsystems for a simplified MicroMouse,
 ### 2. Sensing Subsystem (more info [here](https://github.com/ZuhayrHalday/EEE3088F-Micromouse-Project/tree/main/Sensing%20Subsystem))
 - **Purpose:** Detect obstacles in the robot's path.
 - **Key Functions:**
-  - Detect obstacles in front and on the sides of the robot.
+  - Detect obstacles in front and on the sides of the robot using infrared LED's and photodiodes to sense reflective obstacles.
   - Use power-saving features when not in operation.
   - Provide reliable detection data to the processor.
   - Interface with processor LEDs to indicate detected obstacles.
